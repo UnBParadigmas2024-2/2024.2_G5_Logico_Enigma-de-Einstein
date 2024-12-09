@@ -15,17 +15,23 @@ Paradigmas:
  
  (Apague esses comentários)
 
-# NomeDoProjeto
+# Enigma de Einstein
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
-**Nro do Grupo (de acordo com a Planilha de Divisão dos Grupos)**: XX<br>
-**Paradigma**: XXXXXXXXXX<br>
+**Nro do Grupo**: 05<br>
+**Paradigma**: Logico<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0015311 |  Danilo Domingo |
+| 19/0030291 |  Jackes Fonseca |
+| 20/0021541 |  Karla Chaiane  |
+| 18/0042661 | Luís Furtado de Araújo |
+| 20/0023748 | Marcos Bittar |
+| 19/0020814 |  Vinícius Roriz |
+| 17/0039803 | Lucas Medeiros Rosa |
+
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
@@ -61,7 +67,12 @@ TEMPO: +/- 15min
 Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios (ex. links para commits)
 | -- | -- | -- | -- |
-| Fulano  |  Programação dos Fatos da Base de Conhecimento Lógica | Boa | Commit tal (com link)
+| Jackes  | - | - | -
+| Vinícius  | -   | - | -
+| Luís Fernando Furtado de Araújo  | - | - | -
+| Danilo Domingo Vitoriano Silva  | - | - | -
+| Lucas Medeiros Rosa | - | - | -
+| Karla Feliciano   | - | - | -
 
 ## Outros 
 Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
