@@ -28,7 +28,6 @@ Paradigmas:
 | 19/0030291 |  Jackes Fonseca |
 | 20/0021541 |  Karla Chaiane  |
 | 18/0042661 | Luís Furtado de Araújo |
-| 20/0023748 | Marcos Bittar |
 | 19/0020814 |  Vinícius Roriz |
 | 17/0039803 | Lucas Medeiros Rosa |
 
