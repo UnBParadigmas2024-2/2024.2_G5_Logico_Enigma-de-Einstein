@@ -15,11 +15,10 @@
 | 18/0042661 | Luís Furtado de Araújo |
 | 19/0020814 |  Vinícius Roriz |
 
-
 ## Sobre 
 
 <p align="justify">
-uma solução para o famoso "Enigma de Einstein", um quebra-cabeça lógico que desafia a capacidade de raciocínio e dedução. O enigma é baseado em uma série de pistas que envolvem cinco casas de diferentes cores, cada uma com características distintas, como a nacionalidade do morador, o tipo de bebida que consome, a linguagem de programação que utiliza e o animal de estimação que possui. A tarefa consiste em determinar quem possui o peixe, utilizando apenas as informações fornecidas nas pistas.
+Este projeto é uma solução para o famoso Enigma de Einstein, um quebra-cabeça lógico que desafia a capacidade de raciocínio e dedução. O enigma é baseado em uma série de pistas que envolvem cinco casas de diferentes cores, cada uma com características distintas, como a nacionalidade do morador, o tipo de bebida que consome, a linguagem de programação que utiliza e o animal de estimação que possui. A tarefa consiste em determinar quem possui o peixe, utilizando apenas as informações fornecidas nas pistas.
 </p>
 
 ### Desafio 
@@ -31,9 +30,9 @@ O enigma é frequentemente descrito como:
 - A solução do enigma é descobrir quem tem o peixe, com base nas pistas fornecidas.
 
 <p align="justify">
-Este enigma é atribuído a Albert Einstein, que teria afirmado que 98% da população não conseguiria resolvê-lo. A tarefa é resolver este enigma lógico utilizando o Prolog, uma linguagem de programação declarativa que se destaca pela sua capacidade de lidar com problemas de lógica e dedução.
+Este enigma é atribuído a Albert Einstein, <a href="https://www.bbc.com/portuguese/articles/c72gdnynvdvo" target="_blank">que teria afirmado que 98% da população não conseguiria resolvê-lo</a>. A tarefa é resolver este enigma lógico utilizando o Prolog, uma linguagem de programação declarativa que se destaca pela sua capacidade de lidar com problemas de lógica e dedução.
 </p>
-
+ 
 
 
 ## Screenshots
@@ -80,10 +79,35 @@ Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não es
 (iii) Contribuições e Fragilidades, e
 (iV) Trabalhos Futuros.
 
+## Licões Aprendidas
+
+### Integrante 1
+### Integrante 2
+
+## Percepções
+
+### Comparação Com Outras Linguagens
+
+<p align="justify"> A solução para o Enigma de Einstein foi abordada de diferentes formas ao longo dos anos, com destaque para implementações em várias linguagens, como Haskell. Por exemplo, o <a href="http://blog.darrenstruthers.net/2012/10/solving-einsteins-puzzle-with-haskell.html" target="_blank">código aqui descrito</a> apresenta uma versão do enigma resolvida utilizando a programação funcional, uma abordagem que pode ser comparada ao paradigma lógico que usamos no Prolog. </p>
+
+<p align="justify"> Embora o enigma de Einstein possa ser resolvido com outras linguagens de programação, o uso de Prolog oferece uma série de vantagens notáveis em termos de clareza e eficiência para problemas de lógica.</p>
+
+<p align="justify"> Se compararmos a resolução em Prolog com linguagens como python, solução utilizaria estruturas de dados mais complexas como listas e dicinários, além de funções recursivas para simular o backtracking. A implementação em python não aproveita as otimizações nativas de inferência lógica, o que pode resultar em um desempenho inferior em comparação com o Prolog.
+</p>
+
+
+## Contribuições e Fragilidades
+
+## Trabalhos Futuros
+
+
+
 ## Fontes
 
 > [Solving Einstein's puzzle with constraint programming](https://www.r-bloggers.com/2021/09/solving-einsteins-puzzle-with-constraint-programming/)
 
 > [SWI-PROLOG. SWI-Prolog documentation](hhttps://www.swi-prolog.org/pldoc/index.html)
 
-> [SWI-PROLOG. SWI-Prolog documentation](hhttps://www.swi-prolog.org/pldoc/index.html)
+> [BBC News Brasil: Como resolver o Enigma de Einstein](https://www.bbc.com/portuguese/articles/c72gdnynvdvo)
+
+> [Solving Einstein's Puzzle with Haskell](http://blog.darrenstruthers.net/2012/10/solving-einsteins-puzzle-with-haskell.html)
