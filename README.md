@@ -1,20 +1,3 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-
-**!! *Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(Paradigma)_(NomeDoProjeto)*. !!** 
-
-Paradigmas:
- - Funcional
- - Logico
- - SMA
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.2_G1_Logico_ProjetoRoteirosAereos*. !!**
- 
- (Apague esses comentários)
-
 # Enigma de Einstein
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
@@ -25,17 +8,33 @@ Paradigmas:
 |Matrícula | Aluno |
 | -- | -- |
 | 18/0015311 |  Danilo Domingo |
+| 20/0018442 |  Gabrielly Assunção |
 | 19/0030291 |  Jackes Fonseca |
 | 20/0021541 |  Karla Chaiane  |
+| 17/0039803 | Lucas Medeiros Rosa |
 | 18/0042661 | Luís Furtado de Araújo |
 | 19/0020814 |  Vinícius Roriz |
-| 17/0039803 | Lucas Medeiros Rosa |
 
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
-Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
-Capriche nessa seção, pois ela é a primeira a ser lida pelos interessados no projeto.
+
+<p align="justify">
+uma solução para o famoso "Enigma de Einstein", um quebra-cabeça lógico que desafia a capacidade de raciocínio e dedução. O enigma é baseado em uma série de pistas que envolvem cinco casas de diferentes cores, cada uma com características distintas, como a nacionalidade do morador, o tipo de bebida que consome, a linguagem de programação que utiliza e o animal de estimação que possui. A tarefa consiste em determinar quem possui o peixe, utilizando apenas as informações fornecidas nas pistas.
+</p>
+
+### Desafio 
+O enigma é frequentemente descrito como:
+
+- Existem cinco casas em uma linha, cada uma de uma cor diferente.
+- Em cada casa vive uma pessoa de uma nacionalidade diferente.
+- Cada pessoa prefere uma bebida diferente, programa em uma linguagem diferente e possui um animal diferente.
+- A solução do enigma é descobrir quem tem o peixe, com base nas pistas fornecidas.
+
+<p align="justify">
+Este enigma é atribuído a Albert Einstein, que teria afirmado que 98% da população não conseguiria resolvê-lo. A tarefa é resolver este enigma lógico utilizando o Prolog, uma linguagem de programação declarativa que se destaca pela sua capacidade de lidar com problemas de lógica e dedução.
+</p>
+
+
 
 ## Screenshots
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
@@ -66,12 +65,13 @@ TEMPO: +/- 15min
 Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios (ex. links para commits)
 | -- | -- | -- | -- |
-| Jackes  | - | - | -
-| Vinícius  | -   | - | -
-| Luís Fernando Furtado de Araújo  | - | - | -
 | Danilo Domingo Vitoriano Silva  | - | - | -
-| Lucas Medeiros Rosa | - | - | -
+| Gabrielly Assunção | - | - | -
+| Jackes Fonseca | - | - | -
 | Karla Feliciano   | - | - | -
+| Lucas Medeiros Rosa | - | - | -
+| Luís Furtado de Araújo  | - | - | -
+| Vinícius Roriz | -   | - | -
 
 ## Outros 
 Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
@@ -81,7 +81,9 @@ Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não es
 (iV) Trabalhos Futuros.
 
 ## Fontes
-Referencie, adequadamente, as referências utilizadas.
-Indique ainda sobre fontes de leitura complementares.
 
-[Solving Einstein's puzzle with constraint programming](https://www.r-bloggers.com/2021/09/solving-einsteins-puzzle-with-constraint-programming/)
+> [Solving Einstein's puzzle with constraint programming](https://www.r-bloggers.com/2021/09/solving-einsteins-puzzle-with-constraint-programming/)
+
+> [SWI-PROLOG. SWI-Prolog documentation](hhttps://www.swi-prolog.org/pldoc/index.html)
+
+> [SWI-PROLOG. SWI-Prolog documentation](hhttps://www.swi-prolog.org/pldoc/index.html)
