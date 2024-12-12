@@ -66,7 +66,7 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | -- | -- | -- | -- |
 | Danilo Domingo Vitoriano Silva  | - | - | -
 | Gabrielly Assunção | - | - | -
-| Jackes Fonseca | - | - | -
+| Jackes Fonseca | Boa | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | -
 | Karla Feliciano   | - | - | -
 | Lucas Medeiros Rosa | - | - | -
 | Luís Furtado de Araújo  | - | - | -
