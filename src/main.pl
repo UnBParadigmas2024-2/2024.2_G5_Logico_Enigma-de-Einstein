@@ -53,3 +53,22 @@ resolver(Casas) :-
     sao_unicas([Animais1,Animais2,Animais3,Animais4,Animais5]),
     
     assert(casas_resolvidas(Casas)).
+
+% Predicado para perguntar uma informação de uma casa com base em outra.
+perguntar :-
+    write('Insira uma informação da casa: '),read(Info),nl,
+    write('Informe a característica que deseja descobrir (cor, nacionalidade, bebida, linguagem ou animais): '),read(InfoDesejada),nl,
+    
+    % Recupera a solução armazenada
+    casas_resolvidas(Casas),
+    % Encontra a casa correspondente à característica fornecida
+    member(casa(Cor, Nacionalidade, Bebida, Linguagem, Animais), Casas),
+    (Info = Cor; Info = Nacionalidade; Info = Bebida; Info = Linguagem; Info = Animais),
+    % Retorna o valor desejado com base no tipo especificado
+    (InfoDesejada = cor, Resposta = Cor;
+     InfoDesejada = nacionalidade, Resposta = Nacionalidade;
+     InfoDesejada = bebida, Resposta = Bebida;
+     InfoDesejada = linguagem, Resposta = Linguagem;
+     InfoDesejada = animais, Resposta = Animais),
+    
+    write('Resposta: '),write(Resposta).
