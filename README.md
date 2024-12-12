@@ -79,14 +79,14 @@ Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não es
 (iii) Contribuições e Fragilidades, e
 (iV) Trabalhos Futuros.
 
-## Licões Aprendidas
+### Licões Aprendidas
 
-### Integrante 1
-### Integrante 2
+#### Integrante 1
+#### Integrante 2
 
-## Percepções
+### Percepções
 
-### Comparação Com Outras Linguagens
+#### Comparação Com Outras Linguagens
 
 <p align="justify"> A solução para o Enigma de Einstein foi abordada de diferentes formas ao longo dos anos, com destaque para implementações em várias linguagens, como Haskell. Por exemplo, o <a href="http://blog.darrenstruthers.net/2012/10/solving-einsteins-puzzle-with-haskell.html" target="_blank">código aqui descrito</a> apresenta uma versão do enigma resolvida utilizando a programação funcional, uma abordagem que pode ser comparada ao paradigma lógico que usamos no Prolog.  Veja <a href="https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/blob/main/doc/Relat%C3%B3rio%20Paradigma%20L%C3%B3gico.pdf" target="_blank">aqui</a> a comparação entre o enigma resolvido em Haskell e Prolog.
  </p>
@@ -98,9 +98,9 @@ Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não es
 </p>
 
 
-## Contribuições e Fragilidades
+### Contribuições e Fragilidades
 
-## Trabalhos Futuros
+### Trabalhos Futuros
 
 
 
@@ -108,7 +108,7 @@ Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não es
 
 > [Solving Einstein's puzzle with constraint programming](https://www.r-bloggers.com/2021/09/solving-einsteins-puzzle-with-constraint-programming/)
 
-> [SWI-PROLOG. SWI-Prolog documentation](hhttps://www.swi-prolog.org/pldoc/index.html)
+> [SWI-PROLOG. SWI-Prolog documentation](https://www.swi-prolog.org/pldoc/index.html)
 
 > [BBC News Brasil: Como resolver o Enigma de Einstein](https://www.bbc.com/portuguese/articles/c72gdnynvdvo)
 
