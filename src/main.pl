@@ -15,8 +15,8 @@ sao_unicas([H|T]) :-
     \+ member(H,T), % H não está em T
     sao_unicas(T).
 
-% Predicado para perguntar a cor da casa N
-% cor(N,Cor)
+% Possiblita armazenar a solução em tempo de execução
+:- dynamic casas_resolvidas/1.
 
 % Definicao de casa
 % casa(Cor,Nacionalidade,Bebida,Linguagem,Animais).
@@ -50,4 +50,6 @@ resolver(Casas) :-
     sao_unicas([Nacionalidade1,Nacionalidade2,Nacionalidade3,Nacionalidade4,Nacionalidade5]),
     sao_unicas([Bebida1,Bebida2,Bebida3,Bebida4,Bebida5]),
     sao_unicas([Linguagem1,Linguagem2,Linguagem3,Linguagem4,Linguagem5]),
-    sao_unicas([Animais1,Animais2,Animais3,Animais4,Animais5]).
+    sao_unicas([Animais1,Animais2,Animais3,Animais4,Animais5]),
+    
+    assert(casas_resolvidas(Casas)).
