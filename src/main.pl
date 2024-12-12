@@ -56,7 +56,7 @@ resolver(Casas) :-
 
 % Predicado para perguntar uma informação de uma casa com base em outra.
 perguntar :-
-    write('Insira uma informação da casa: '),read(Info),nl,
+    write('Insira uma informação da casa (ex: verde, agua, gatos...): '),read(Info),nl,
     write('Informe a característica que deseja descobrir (cor, nacionalidade, bebida, linguagem ou animais): '),read(InfoDesejada),nl,
     
     % Recupera a solução armazenada
