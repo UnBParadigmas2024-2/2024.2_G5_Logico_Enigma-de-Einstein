@@ -39,11 +39,18 @@ Este enigma é atribuído a Albert Einstein, <a href="https://www.bbc.com/portug
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
 
 ## Instalação 
-**Linguagens**: xxxxxx<br>
-**Tecnologias**: xxxxxx<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Insira um manual ou um script para auxiliar ainda mais.
-Gifs animados e outras ilustrações são bem-vindos!
+**Linguagens**: Prolog<br>
+**Tecnologias**: SWI Prolog<br>
+
+Para rodar o projeto será necessário a instalação do SWI Prolog, para fazer sua instalação é simples, pode ser feito via terminal utilizando os seguintes comandos:
+
+```bash
+sudo apt-add-repository ppa:swi-prolog/stable
+sudo apt update
+sudo apt install swi-prolog
+```
+
+Uma alternativa para quem utiliza o Windows e não quer fazer a instalação do SWI Prolog via WSL, pode ser instalando o LPA WinProlog, basta baixá-lo [aqui](https://unbbr-my.sharepoint.com/:u:/g/personal/180015311_aluno_unb_br/Ee3LhOEMm9hNuXbuGs3d36ABuSkdLVglZCUPvtECVq_rLg?e=8FiUve), após isso basta extrair e executar o .exe.
 
 ## Uso 
 Explique como usar seu projeto.
