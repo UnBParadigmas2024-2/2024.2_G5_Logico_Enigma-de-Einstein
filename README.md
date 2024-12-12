@@ -66,7 +66,7 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | -- | -- | -- | -- |
 | Danilo Domingo Vitoriano Silva  | - | - | -
 | Gabrielly Assunção | - | - | -
-| Jackes Fonseca | Boa | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | -
+| Jackes Fonseca | Boa | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/1bb533a1ba029774550e7c78d7ccf711e218e4c2
 | Karla Feliciano   | - | - | -
 | Lucas Medeiros Rosa | - | - | -
 | Luís Furtado de Araújo  | - | - | -
