@@ -33,7 +33,7 @@ O enigma é frequentemente descrito como:
 Este enigma é atribuído a Albert Einstein, <a href="https://www.bbc.com/portuguese/articles/c72gdnynvdvo" target="_blank">que teria afirmado que 98% da população não conseguiria resolvê-lo</a>. A tarefa é resolver este enigma lógico utilizando o Prolog, uma linguagem de programação declarativa que se destaca pela sua capacidade de lidar com problemas de lógica e dedução.
 </p>
  
-## Screenshots
+## Uso e Screenshots
 Ao rodar o comando `resolver(Casas).`, o programa retornará a lista de todas as casas preenchidas com suas informações.  
 
 <img src="imgs/resolver.png" alt="" width="500" /><br>
@@ -60,11 +60,6 @@ sudo apt install swi-prolog
 
 Uma alternativa para quem utiliza o Windows e não quer fazer a instalação do SWI Prolog via WSL, pode ser instalando o LPA WinProlog, basta baixá-lo [aqui](https://unbbr-my.sharepoint.com/:u:/g/personal/180015311_aluno_unb_br/Ee3LhOEMm9hNuXbuGs3d36ABuSkdLVglZCUPvtECVq_rLg?e=8FiUve), após isso basta extrair e executar o .exe.
 
-## Uso 
-Explique como usar seu projeto.
-Procure ilustrar em passos, com apoio de telas do software, seja com base na interface gráfica, seja com base no terminal.
-Nessa seção, deve-se revelar de forma clara sobre o funcionamento do software.
-
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.
 Procure: 
@@ -82,7 +77,7 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | Danilo Domingo Vitoriano Silva  | Participação na elaboração da documentação | Boa | [Adição da identificação do grupo](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/7c48de6e073ba2b0d0172cbb719f246281919be9), [Passo a Passo da instalação](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/c69cf897557ca4a040f3eee23a14fed0b489b7e7) 
 | Gabrielly Assunção | - | - | -
 | Jackes Fonseca | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | Boa | https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/1bb533a1ba029774550e7c78d7ccf711e218e4c2
-| Karla Feliciano   | - | - | -
+| Karla Feliciano   | Codificação da funcionalidade de fazer perguntas ao programa | Boa | [Persistência de informações descorbertas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/738a1e8833776009f9f5bc745f86266e3e1bf5da), [Predicado de perguntas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/ccec32d31f7aaadc1accce15eff7c287c1cec6a4)
 | Lucas Medeiros Rosa | - | - | -
 | Luís Furtado de Araújo  | - | - | -
 | Vinícius Roriz | Resolução do problema | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/8fcd7b71acc8cc2af86a9525f5f91a0f0fe93fe3)
@@ -101,6 +96,10 @@ Uma das maiores lições foi entender e aplicar o paradigma lógico, que é muit
 </p>
 
 #### Jackes Fonseca
+
+#### Karla Feliciano
+Usar Prolog e o paradigma lógico me ensinou a pensar de forma diferente do raciocínio linear tradicional para abordar problemas de maneira declarativa. Percebi o poder de expressar soluções complexas com poucas palavras, o que torna a importante entender bem a lógica por trás para não se perder. É um paradigma que tem muito poder e com poucas palavras consegue fazer muita coisa, então precisei me adaptar para utilizar as funções, ou implementar novas.
+
 #### Lucas Medeiros
 #### Luís Furtado
 #### Vinícius Roriz
@@ -132,6 +131,10 @@ Contribui mais para a parte da documentação, na construção do Readme, també
 
 #### Gabrielly Assunção
 #### Jackes Fonseca
+
+#### Karla Feliciano
+Fiquei responsável pela parte de permitir que o usuário fizesse perguntas ao programa. Então mesmo que o prolog naturalmente devolva variáveis ao usuário, adaptei para que a interação fosse mais intuitiva ao usuário. Durante a realização do código tive algumas dificuldades com as mensagens de erro que recebia, já que algumas vezes não era informada a linha do erro ou era pouco detalhado o problema ocorrido, porém apesar de haver menos conteúdos da linguagem na internet consegui recorrer a ajuda de outros usuários em fóruns.
+
 #### Lucas Medeiros
 #### Luís Furtado
 #### Vinícius Roriz
