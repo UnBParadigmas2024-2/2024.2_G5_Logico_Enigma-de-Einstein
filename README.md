@@ -84,7 +84,6 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | Vinícius Roriz | Resolução do problema | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/8fcd7b71acc8cc2af86a9525f5f91a0f0fe93fe3)
 
 ## Outros 
-    Modularização do Código: O código atual poderia ser dividido em módulos distintos, separando a lógica de resolução (como os predicados principais) das funcionalidades auxiliares (como ao_lado e a_esquerda). Isso facilitaria a manutenção e a escalabilidade do projeto.
 (i) Lições Aprendidas;
 (ii) Percepções;
 (iii) Contribuições e Fragilidades, e
