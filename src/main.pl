@@ -72,18 +72,3 @@ perguntar :-
      InfoDesejada = animais, Resposta = Animais),
     
     write('Resposta: '),write(Resposta).
-    sao_unicas([Animais1,Animais2,Animais3,Animais4,Animais5]).
-
-% :- set_prolog_flag(color_term,false),
-%    protocol('./trace_output.txt'),
-%    leash(-all),
-%    trace,
-%    resolver(X),  % Executa a consulta
-%    nodebug.
-
-% Resultado final
-% [casa(amarela,  brasileiro, agua,    prolog,  gatos),
-%  casa(azul,     argentino,  cha,     java,    cavalos),
-%  casa(vermelha, ingles,     leite,   haskell, passaros),
-%  casa(verde,    portugues,  cafe,    php,     peixes),
-%  casa(branca,   chileno,    cerveja, python,  cachorros)]
