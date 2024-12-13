@@ -1,7 +1,7 @@
 # Enigma de Einstein
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
-**Nro do Grupo**: 05<br>
+**Número do Grupo**: 05<br>
 **Paradigma**: Logico<br>
 
 ## Alunos
@@ -79,7 +79,7 @@ TEMPO: +/- 15min
 Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios (ex. links para commits)
 | -- | -- | -- | -- |
-| Danilo Domingo Vitoriano Silva  | - | - | -
+| Danilo Domingo Vitoriano Silva  | Participação na elaboração da documentação | Boa | [Adição da identificação do grupo](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/7c48de6e073ba2b0d0172cbb719f246281919be9), [Passo a Passo da instalação](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/c69cf897557ca4a040f3eee23a14fed0b489b7e7) 
 | Gabrielly Assunção | - | - | -
 | Jackes Fonseca | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | Boa | https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/1bb533a1ba029774550e7c78d7ccf711e218e4c2
 | Karla Feliciano   | - | - | -
@@ -91,6 +91,9 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 ### I. Licões Aprendidas
 
 #### Danilo Domingo
+
+<p align="justify"> Compreendi como o paradigma lógico permite lidar com problemas complexos de forma natural, baseando-se em relações e inferências, como é possível alcançar soluções robustas ao focar na definição precisa do problema, em vez de construir algoritmos detalhados passo a passo. Mesmo sem entender perfeitamente o paradigma, consegui perceber outro método de resolver problemas computacionais. </p>
+
 #### Gabrielly Assunção
 
 <p align="justify">
@@ -122,6 +125,11 @@ A solução para o Enigma de Einstein foi abordada de diferentes formas ao longo
 ### III. Contribuições e Fragilidades
 
 #### Danilo Domingo
+
+<p aling="justufy">
+Contribui mais para a parte da documentação, na construção do Readme, também participei de forma mais tímida na escolha do problema a ser solucionado, pois não participei de todas as aulas e estava um pouco deslocado em relação ao paradigma, devido a isso optei a participar mais ativamente na documentação do projeto.
+</p>
+
 #### Gabrielly Assunção
 #### Jackes Fonseca
 #### Lucas Medeiros
