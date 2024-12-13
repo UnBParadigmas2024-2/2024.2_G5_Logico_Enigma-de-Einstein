@@ -91,14 +91,26 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 
 ### (i) Licões Aprendidas
 
-#### Integrante 1
-#### Integrante 2
+#### Danilo Domingo
+#### Gabrielly Assunção
+
+<p align="justify">
+Uma das maiores lições foi entender e aplicar o paradigma lógico, que é muito diferente do paradigma orientado a objetos com os qual eu já estava mais acostumada. Em prolog, o destaque está na descrição do problema e das suas restrições, deixando para o motor de inferência o papel de encontrar a solução. Esse tipo de abordagem mudou minha maneira de pensar sobre problemas computacionais, despertando um raciocínio mais lógico e sistemático.
+</p>
+
+#### Jackes Fonseca
+#### Lucas Medeiros
+#### Luís Furtado
+#### Vinícius
 
 ### (ii) Percepções
 
 #### Comparação Com Outras Linguagens
 
-<p align="justify"> A solução para o Enigma de Einstein foi abordada de diferentes formas ao longo dos anos, com destaque para implementações em várias linguagens, como Haskell. Por exemplo, o <a href="http://blog.darrenstruthers.net/2012/10/solving-einsteins-puzzle-with-haskell.html" target="_blank">código aqui descrito</a> apresenta uma versão do enigma resolvida utilizando a programação funcional, uma abordagem que pode ser comparada ao paradigma lógico que usamos no Prolog.  Veja <a href="https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/blob/main/doc/Relat%C3%B3rio%20Paradigma%20L%C3%B3gico.pdf" target="_blank">aqui</a> a comparação entre o enigma resolvido em Haskell e Prolog.
+
+
+<p align="justify"> 
+A solução para o Enigma de Einstein foi abordada de diferentes formas ao longo dos anos, com destaque para implementações em várias linguagens, como Haskell. Por exemplo, o <a href="http://blog.darrenstruthers.net/2012/10/solving-einsteins-puzzle-with-haskell.html" target="_blank">código aqui descrito</a> apresenta uma versão do enigma resolvida utilizando a programação funcional, uma abordagem que pode ser comparada ao paradigma lógico que usamos no Prolog.  Veja <a href="https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/blob/main/doc/Relat%C3%B3rio%20Paradigma%20L%C3%B3gico.pdf" target="_blank">aqui</a> a comparação entre o enigma resolvido em Haskell e Prolog.
  </p>
 
 
