@@ -180,7 +180,7 @@ O projeto apresenta diversas possibilidades de evolução e melhorias de código
 4. Criar testes unitários.
 </p>
 <p align="justify">
-5. Atualmente a solução é armazena em tempo de execução, sendo interessante evoluir para persistir em um banco de dados.
+5. Atualmente a solução é armazenada em tempo de execução, sendo interessante evoluir para persistir em um banco de dados.
 </p>
 
 ## Fontes
