@@ -50,13 +50,28 @@ Ao rodar o comando `perguntar.`, o usuário deve então informar uma informaçã
 Para rodar o projeto será necessário a instalação do SWI Prolog, para fazer sua instalação é simples, pode ser feito via terminal utilizando os seguintes comandos:
 </p>
 
- **Linux**
+### Linux
 ```bash
 sudo apt-add-repository ppa:swi-prolog/stable
 sudo apt update
 sudo apt install swi-prolog
 ```
-**Windows**
+
+### MacOS
+
+Caso não tenha o homebrew (gerenciador de pacotes do macOS instalado):
+```bash
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo brew update
+```
+
+Após garantir que o homebrew está instalado, instale o swi-prolog pelo gerenciador de pacotes homebrew:
+```bash
+sudo brew install swi-prolog
+```
+
+
+### Windows
 
 Uma alternativa para quem utiliza o Windows e não quer fazer a instalação do SWI Prolog via WSL, pode ser instalando o LPA WinProlog, basta baixá-lo [aqui](https://unbbr-my.sharepoint.com/:u:/g/personal/180015311_aluno_unb_br/Ee3LhOEMm9hNuXbuGs3d36ABuSkdLVglZCUPvtECVq_rLg?e=8FiUve), após isso basta extrair e executar o .exe.
 
