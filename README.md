@@ -93,7 +93,7 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | Gabrielly Assunção | - | - | -
 | Jackes Fonseca | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | Boa | https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/1bb533a1ba029774550e7c78d7ccf711e218e4c2
 | Karla Feliciano   | Codificação da funcionalidade de fazer perguntas ao programa | Boa | [Persistência de informações descorbertas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/738a1e8833776009f9f5bc745f86266e3e1bf5da), [Predicado de perguntas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/ccec32d31f7aaadc1accce15eff7c287c1cec6a4)
-| Lucas Medeiros Rosa | - | - | -
+| Lucas Medeiros Rosa | Contribui com a escolha do tema. Gerei e analisei o trace de deduções utilizado pelo prolog para chegar ao resultado final | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/977a0cd0b958c3779609fe5239a07bb5b56edd19)
 | Luís Furtado de Araújo  | - | - | -
 | Vinícius Roriz | Resolução do problema | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/8fcd7b71acc8cc2af86a9525f5f91a0f0fe93fe3)
 
@@ -116,6 +116,8 @@ Uma das maiores lições foi entender e aplicar o paradigma lógico, que é muit
 Usar Prolog e o paradigma lógico me ensinou a pensar de forma diferente do raciocínio linear tradicional para abordar problemas de maneira declarativa. Percebi o poder de expressar soluções complexas com poucas palavras, o que torna a importante entender bem a lógica por trás para não se perder. É um paradigma que tem muito poder e com poucas palavras consegue fazer muita coisa, então precisei me adaptar para utilizar as funções, ou implementar novas.
 
 #### Lucas Medeiros
+Acredito que a maior lição aprendida após essa atividade foi adiquirir um conhecimento mais profundo de como o prolog processas as informações fornecidas para chegar ao resultado final. Durante as aulas, apesar de compreender a teoria da busca em profundidade do Prolog, não estava tão claro para mim como a linguém de fato operava para resolver as questões. Além disso uma aplicação prática me ajudou a sair da teoria e ver as possibilidades do prolog como ferramenta.
+
 #### Luís Furtado
 #### Vinícius Roriz
 
@@ -151,6 +153,10 @@ Contribui mais para a parte da documentação, na construção do Readme, també
 Fiquei responsável pela parte de permitir que o usuário fizesse perguntas ao programa. Então mesmo que o prolog naturalmente devolva variáveis ao usuário, adaptei para que a interação fosse mais intuitiva ao usuário. Durante a realização do código tive algumas dificuldades com as mensagens de erro que recebia, já que algumas vezes não era informada a linha do erro ou era pouco detalhado o problema ocorrido, porém apesar de haver menos conteúdos da linguagem na internet consegui recorrer a ajuda de outros usuários em fóruns.
 
 #### Lucas Medeiros
+Minha primeira contribuição no projeto foi o próprio tema, eu fui o integrante que deu a ideia de criar um programa em Prolog capaz de resolver o famosos Desafio de Lógica de Einstein. Com a contribuição de outros colegas chegamos na objetivo final de mostrar ao usário o caminho de deduções até o resultado. Após essa decição fiquei responsável por gerar o caminho dedutivo do Prolog, tafera que realizei utilizando o `trace`, nativo do Prolog.
+
+Acredito que minha maior fragilidade nesse projeto foi não ter sido capaz de gerar a sequência de deduções de maneira simple para o usuário.
+
 #### Luís Furtado
 #### Vinícius Roriz
 
