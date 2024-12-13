@@ -42,13 +42,17 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 **Linguagens**: Prolog<br>
 **Tecnologias**: SWI Prolog<br>
 
+<p align="justify">
 Para rodar o projeto será necessário a instalação do SWI Prolog, para fazer sua instalação é simples, pode ser feito via terminal utilizando os seguintes comandos:
+</p>
 
+ **Linux**
 ```bash
 sudo apt-add-repository ppa:swi-prolog/stable
 sudo apt update
 sudo apt install swi-prolog
 ```
+**Windows**
 
 Uma alternativa para quem utiliza o Windows e não quer fazer a instalação do SWI Prolog via WSL, pode ser instalando o LPA WinProlog, basta baixá-lo [aqui](https://unbbr-my.sharepoint.com/:u:/g/personal/180015311_aluno_unb_br/Ee3LhOEMm9hNuXbuGs3d36ABuSkdLVglZCUPvtECVq_rLg?e=8FiUve), após isso basta extrair e executar o .exe.
 
@@ -80,18 +84,18 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | Vinícius Roriz | Resolução do problema | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/8fcd7b71acc8cc2af86a9525f5f91a0f0fe93fe3)
 
 ## Outros 
-Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
+    Modularização do Código: O código atual poderia ser dividido em módulos distintos, separando a lógica de resolução (como os predicados principais) das funcionalidades auxiliares (como ao_lado e a_esquerda). Isso facilitaria a manutenção e a escalabilidade do projeto.
 (i) Lições Aprendidas;
 (ii) Percepções;
 (iii) Contribuições e Fragilidades, e
 (iV) Trabalhos Futuros.
 
-### Licões Aprendidas
+### (i) Licões Aprendidas
 
 #### Integrante 1
 #### Integrante 2
 
-### Percepções
+### (ii) Percepções
 
 #### Comparação Com Outras Linguagens
 
@@ -105,18 +109,35 @@ Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não es
 </p>
 
 
-### Contribuições e Fragilidades
+### (iii) Contribuições e Fragilidades
 
-### Trabalhos Futuros
+### (iv) Trabalhos Futuros
 
-
+<p align="justify">
+O projeto apresenta diversas possibilidades de evolução e melhorias de código torná-lo mais robusto. Abaixo estão algumas sugestões da equipe para trabalhos futuros:
+</p>
+<p align="justify">
+1. Modularização do código, divindindo a lógica de resolução, separando os predicados principais das funções auxiliares, facilitando a escalabilidade do código.
+</p>
+<p align="justify">
+2.  Criar uma interface para interação com o usuário, permitindo que perguntas sejam feitas de maneira intuitiva, sem a necessidade de comandos Prolog.
+</p>
+<p align="justify">
+3. Melhorar as validações de entrada para assegurar que as inconsistências dsejam tratadas corretamente.
+</p>
+<p align="justify">
+4. Criar testes unitários.
+</p>
+<p align="justify">
+5. Atualmente a solução é armazena em tempo de execução, sendo interessante evoluir para persistir em um banco de dados.
+</p>
 
 ## Fontes
 
-> [Solving Einstein's puzzle with constraint programming](https://www.r-bloggers.com/2021/09/solving-einsteins-puzzle-with-constraint-programming/)
+> [Solving Einstein's puzzle with constraint programming](https://www.r-bloggers.com/2021/09/solving-einsteins-puzzle-with-constraint-programming/).  Acesso em: 09 nov. 2024.
 
-> [SWI-PROLOG. SWI-Prolog documentation](https://www.swi-prolog.org/pldoc/index.html)
+> [SWI-PROLOG. SWI-Prolog documentation](https://www.swi-prolog.org/pldoc/index.html).  Acesso em: 09 nov. 2024.
 
-> [BBC News Brasil: Como resolver o Enigma de Einstein](https://www.bbc.com/portuguese/articles/c72gdnynvdvo)
+> [BBC News Brasil: Como resolver o Enigma de Einstein](https://www.bbc.com/portuguese/articles/c72gdnynvdvo).  Acesso em: 11 nov. 2024.
 
-> [Solving Einstein's Puzzle with Haskell](http://blog.darrenstruthers.net/2012/10/solving-einsteins-puzzle-with-haskell.html)
+> [Solving Einstein's Puzzle with Haskell](http://blog.darrenstruthers.net/2012/10/solving-einsteins-puzzle-with-haskell.html).  Acesso em: 11 nov. 2024.
