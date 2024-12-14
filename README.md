@@ -163,6 +163,11 @@ Minha primeira contribuição no projeto foi o próprio tema, eu fui o integrant
 Acredito que minha maior fragilidade nesse projeto foi não ter sido capaz de gerar a sequência de deduções de maneira simple para o usuário.
 
 #### Luís Furtado
+
+<p align="justify"> 
+Participei da implementação de permitir que o usuário fizesse perguntas ao programa, também na lógica de adicionar dinamicamente fatos ou regras a base de conhecimento para que pudesse ser utilizada depois pelo predicativo de fazer perguntas ao programa. Minha maior dificuldade foi entender como poderia ser resolvido o problema através da estrutura do prolog e entender como o paradigma lógico funcionava. Depois de entender isso, foi um pouco mais fácil de implementar. Também tive um pouco de dificuldade para configurar o ambiente no ambiente MacOS, onde deixei a contribuição no Readme para rodar nesse ambiente.
+</p>
+
 #### Vinícius Roriz
 
 <p align="justify"> 
