@@ -33,7 +33,7 @@ O enigma é frequentemente descrito como:
 Este enigma é atribuído a Albert Einstein, <a href="https://www.bbc.com/portuguese/articles/c72gdnynvdvo" target="_blank">que teria afirmado que 98% da população não conseguiria resolvê-lo</a>. A tarefa é resolver este enigma lógico utilizando o Prolog, uma linguagem de programação declarativa que se destaca pela sua capacidade de lidar com problemas de lógica e dedução.
 </p>
  
-## Screenshots
+## Uso e Screenshots
 Ao rodar o comando `resolver(Casas).`, o programa retornará a lista de todas as casas preenchidas com suas informações.  
 
 <img src="imgs/resolver.png" alt="" width="500" /><br>
@@ -50,20 +50,30 @@ Ao rodar o comando `perguntar.`, o usuário deve então informar uma informaçã
 Para rodar o projeto será necessário a instalação do SWI Prolog, para fazer sua instalação é simples, pode ser feito via terminal utilizando os seguintes comandos:
 </p>
 
- **Linux**
+### Linux
 ```bash
 sudo apt-add-repository ppa:swi-prolog/stable
 sudo apt update
 sudo apt install swi-prolog
 ```
-**Windows**
+
+### MacOS
+
+Caso não tenha o homebrew (gerenciador de pacotes do macOS instalado):
+```bash
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo brew update
+```
+
+Após garantir que o homebrew está instalado, instale o swi-prolog pelo gerenciador de pacotes homebrew:
+```bash
+sudo brew install swi-prolog
+```
+
+
+### Windows
 
 Uma alternativa para quem utiliza o Windows e não quer fazer a instalação do SWI Prolog via WSL, pode ser instalando o LPA WinProlog, basta baixá-lo [aqui](https://unbbr-my.sharepoint.com/:u:/g/personal/180015311_aluno_unb_br/Ee3LhOEMm9hNuXbuGs3d36ABuSkdLVglZCUPvtECVq_rLg?e=8FiUve), após isso basta extrair e executar o .exe.
-
-## Uso 
-Explique como usar seu projeto.
-Procure ilustrar em passos, com apoio de telas do software, seja com base na interface gráfica, seja com base no terminal.
-Nessa seção, deve-se revelar de forma clara sobre o funcionamento do software.
 
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.
@@ -82,9 +92,9 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | Danilo Domingo Vitoriano Silva  | Participação na elaboração da documentação | Boa | [Adição da identificação do grupo](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/7c48de6e073ba2b0d0172cbb719f246281919be9), [Passo a Passo da instalação](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/c69cf897557ca4a040f3eee23a14fed0b489b7e7) 
 | Gabrielly Assunção | Elaboração do documento | Execlente |[Informações gerais](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/befecb5492e62ec3da9f11474065291ad856713d), [Comparação com outras linguagens](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/920498465cbd64ea7e30e3ddc2df1a89ca0973df), [Trabalhos futuros](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/06feced23010c74e4a90f3f8740c1fce1fd9bff0)
 | Jackes Fonseca | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | Boa | https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/1bb533a1ba029774550e7c78d7ccf711e218e4c2
-| Karla Feliciano   | - | - | -
-| Lucas Medeiros Rosa | - | - | -
-| Luís Furtado de Araújo  | - | - | -
+| Karla Feliciano   | Codificação da funcionalidade de fazer perguntas ao programa | Boa | [Persistência de informações descorbertas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/738a1e8833776009f9f5bc745f86266e3e1bf5da), [Predicado de perguntas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/ccec32d31f7aaadc1accce15eff7c287c1cec6a4)
+| Lucas Medeiros Rosa | Contribui com a escolha do tema. Gerei e analisei o trace de deduções utilizado pelo prolog para chegar ao resultado final | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/977a0cd0b958c3779609fe5239a07bb5b56edd19)
+| Luís Furtado de Araújo  | Codificação da funcionalidade de fazer perguntas ao programa, Instalação e execução do programa no ambiente MacOS | Boa | [Predicado de perguntas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/ccec32d31f7aaadc1accce15eff7c287c1cec6a4), [Instalação e execução ambiente MacOS](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/f46071fb99b09591ff81ce964fc2380e14208d7c)
 | Vinícius Roriz | Resolução do problema | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/8fcd7b71acc8cc2af86a9525f5f91a0f0fe93fe3)
 
 ## Outros 
@@ -101,8 +111,19 @@ Uma das maiores lições foi entender e aplicar o paradigma lógico, que é muit
 </p>
 
 #### Jackes Fonseca
+
+#### Karla Feliciano
+Usar Prolog e o paradigma lógico me ensinou a pensar de forma diferente do raciocínio linear tradicional para abordar problemas de maneira declarativa. Percebi o poder de expressar soluções complexas com poucas palavras, o que torna a importante entender bem a lógica por trás para não se perder. É um paradigma que tem muito poder e com poucas palavras consegue fazer muita coisa, então precisei me adaptar para utilizar as funções, ou implementar novas.
+
 #### Lucas Medeiros
+Acredito que a maior lição aprendida após essa atividade foi adiquirir um conhecimento mais profundo de como o prolog processas as informações fornecidas para chegar ao resultado final. Durante as aulas, apesar de compreender a teoria da busca em profundidade do Prolog, não estava tão claro para mim como a linguém de fato operava para resolver as questões. Além disso uma aplicação prática me ajudou a sair da teoria e ver as possibilidades do prolog como ferramenta.
+
 #### Luís Furtado
+
+<p align="justify">
+A maior lição e aprendizado que tive foi entender através do paradigma lógico de pensar em outro fluxo de resolução de problemas, onde caminhamos para definir os predicados, representações de lógicas ou propriedades que dizem serem verdadeiras ou falsas, para assim garantir o fluxo do programa através desses predicados já definidos. Entendi também que para alguns determinados problemas (como o de Einstein), o paradigma lógico pode ser muito interessante em questões de performance, mas também podem gerar diversos problemas de manutenabilidade, evolução e escalabilidade, dependendo do tamanho de dados a serem considerados para o problema.
+</p>
+
 #### Vinícius Roriz
 
 <p align="justify">
@@ -144,8 +165,21 @@ Embora minha participação tenha se concentrado na documentação e no apoio ao
 
 
 #### Jackes Fonseca
+
+#### Karla Feliciano
+Fiquei responsável pela parte de permitir que o usuário fizesse perguntas ao programa. Então mesmo que o prolog naturalmente devolva variáveis ao usuário, adaptei para que a interação fosse mais intuitiva ao usuário. Durante a realização do código tive algumas dificuldades com as mensagens de erro que recebia, já que algumas vezes não era informada a linha do erro ou era pouco detalhado o problema ocorrido, porém apesar de haver menos conteúdos da linguagem na internet consegui recorrer a ajuda de outros usuários em fóruns.
+
 #### Lucas Medeiros
+Minha primeira contribuição no projeto foi o próprio tema, eu fui o integrante que deu a ideia de criar um programa em Prolog capaz de resolver o famosos Desafio de Lógica de Einstein. Com a contribuição de outros colegas chegamos na objetivo final de mostrar ao usário o caminho de deduções até o resultado. Após essa decição fiquei responsável por gerar o caminho dedutivo do Prolog, tafera que realizei utilizando o `trace`, nativo do Prolog.
+
+Acredito que minha maior fragilidade nesse projeto foi não ter sido capaz de gerar a sequência de deduções de maneira simple para o usuário.
+
 #### Luís Furtado
+
+<p align="justify"> 
+Participei da implementação de permitir que o usuário fizesse perguntas ao programa, também na lógica de adicionar dinamicamente fatos ou regras a base de conhecimento para que pudesse ser utilizada depois pelo predicativo de fazer perguntas ao programa. Minha maior dificuldade foi entender como poderia ser resolvido o problema através da estrutura do prolog e entender como o paradigma lógico funcionava. Depois de entender isso, foi um pouco mais fácil de implementar. Também tive um pouco de dificuldade para configurar o ambiente no ambiente MacOS, onde deixei a contribuição no Readme para rodar nesse ambiente.
+</p>
+
 #### Vinícius Roriz
 
 <p align="justify"> 
@@ -174,7 +208,7 @@ O projeto apresenta diversas possibilidades de evolução e melhorias de código
 4. Criar testes unitários.
 </p>
 <p align="justify">
-5. Atualmente a solução é armazena em tempo de execução, sendo interessante evoluir para persistir em um banco de dados.
+5. Atualmente a solução é armazenada em tempo de execução, sendo interessante evoluir para persistir em um banco de dados.
 </p>
 
 ## Fontes
