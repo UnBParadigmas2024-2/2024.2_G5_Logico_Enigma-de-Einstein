@@ -80,7 +80,7 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) | Comprobatórios (ex. links para commits)
 | -- | -- | -- | -- |
 | Danilo Domingo Vitoriano Silva  | Participação na elaboração da documentação | Boa | [Adição da identificação do grupo](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/7c48de6e073ba2b0d0172cbb719f246281919be9), [Passo a Passo da instalação](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/c69cf897557ca4a040f3eee23a14fed0b489b7e7) 
-| Gabrielly Assunção | - | - | -
+| Gabrielly Assunção | Elaboração do documento | Execlente |[Informações gerais](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/befecb5492e62ec3da9f11474065291ad856713d), [Comparação com outras linguagens](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/920498465cbd64ea7e30e3ddc2df1a89ca0973df), [Trabalhos futuros](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/06feced23010c74e4a90f3f8740c1fce1fd9bff0)
 | Jackes Fonseca | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | Boa | https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/1bb533a1ba029774550e7c78d7ccf711e218e4c2
 | Karla Feliciano   | - | - | -
 | Lucas Medeiros Rosa | - | - | -
@@ -115,7 +115,7 @@ Ao decorrer deste projeto, aprendi a abordar o problema de forma declarativa, e 
 
 <p align="justify"> 
 A solução para o Enigma de Einstein foi abordada de diferentes formas ao longo dos anos, com destaque para implementações em várias linguagens, como Haskell. Por exemplo, o <a href="http://blog.darrenstruthers.net/2012/10/solving-einsteins-puzzle-with-haskell.html" target="_blank">código aqui descrito</a> apresenta uma versão do enigma resolvida utilizando a programação funcional, uma abordagem que pode ser comparada ao paradigma lógico que usamos no Prolog.  Veja <a href="https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/blob/main/doc/Relat%C3%B3rio%20Paradigma%20L%C3%B3gico.pdf" target="_blank">aqui</a> a comparação entre o enigma resolvido em Haskell e Prolog.
- </p>
+</p>
 
 <p align="justify"> Embora o enigma de Einstein possa ser resolvido com outras linguagens de programação, o uso de Prolog oferece uma série de vantagens notáveis em termos de clareza e eficiência para problemas de lógica.</p>
 
@@ -126,11 +126,23 @@ A solução para o Enigma de Einstein foi abordada de diferentes formas ao longo
 
 #### Danilo Domingo
 
-<p aling="justufy">
+<p align="justify">
 Contribui mais para a parte da documentação, na construção do Readme, também participei de forma mais tímida na escolha do problema a ser solucionado, pois não participei de todas as aulas e estava um pouco deslocado em relação ao paradigma, devido a isso optei a participar mais ativamente na documentação do projeto.
 </p>
 
 #### Gabrielly Assunção
+
+<p align="justify">
+Minha contribuição no projeto dependeu significativamente do trabalho inicial realizado pelos meus colegas, especialmente no que diz respeito à resolução do problema lógico. Essa dependência pode ser vista como uma fragilidade, já que minha participação na implementação do código foi limitada. Ainda assim, me mantive focada em revisar e compreender a lógica desenvolvida, buscando agregar valor por meio de suporte e colaboração.A divisão de tarefas e o escopo reduzido do software também limitaram meu envolvimento direto no desenvolvimento lógico. Além disso, minha falta de prática com Prolog impactou minha atuação de forma mais técnica. 
+</p>
+<p align="justify">
+Apesar dessas limitações, me mantive disponível para ajudar meus colegas sempre que necessário, seja revisando trechos de código, discutindo dúvidas conceituais ou validando ideias .Assumi, também, a responsabilidade pela documentação do projeto, o que foi uma contribuição essencial para o sucesso do trabalho. Organizei informações, contextualizei  e revisei cada detalhe da documentação, garantindo que fosse clara, bem estruturada. Meu objetivo foi garantir a qualidade do documento, tanto em termos de apresentação quanto de conteúdo, contribuindo para que o projeto fosse compreendido de maneira integral por qualquer leitor.
+</p>
+<p align="justify">
+Embora minha participação tenha se concentrado na documentação e no apoio ao grupo, acredito que agreguei valor em aspectos fundamentais para um trabalho acadêmico, como clareza, organização e revisão crítica. Reconheço minhas limitações no desenvolvimento técnico e vejo essa experiência como uma oportunidade de aprendizado. Em projetos futuros, pretendo aprofundar meu envolvimento na parte lógica, ampliando minha contribuição de forma mais equilibrada entre o código e outros aspectos complementares do projeto.
+</p>
+
+
 #### Jackes Fonseca
 #### Lucas Medeiros
 #### Luís Furtado
