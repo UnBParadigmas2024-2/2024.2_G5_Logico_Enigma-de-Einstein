@@ -76,14 +76,9 @@ sudo brew install swi-prolog
 Uma alternativa para quem utiliza o Windows e não quer fazer a instalação do SWI Prolog via WSL, pode ser instalando o LPA WinProlog, basta baixá-lo [aqui](https://unbbr-my.sharepoint.com/:u:/g/personal/180015311_aluno_unb_br/Ee3LhOEMm9hNuXbuGs3d36ABuSkdLVglZCUPvtECVq_rLg?e=8FiUve), após isso basta extrair e executar o .exe.
 
 ## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto.
-Procure: 
-(i) Introduzir o projeto;
-(ii) Mostrar passo a passo o código, explicando-o, e deixando claro o que é de terceiros, e o que é contribuição real da equipe;
-(iii) Apresentar particularidades do Paradigma, da Linguagem, e das Tecnologias, e
-(iV) Apresentar lições aprendidas, contribuições, pendências, e ideias para trabalhos futuros.
-OBS: TODOS DEVEM PARTICIPAR, CONFERINDO PONTOS DE VISTA.
-TEMPO: +/- 15min
+
+Clique [aqui](https://drive.google.com/file/d/1CDVcOWlnncfYWNEhh_KtaakRjH9hPkp5/view?usp=sharing) para assistir o vídeo.
+
 
 ## Participações
 Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
@@ -111,15 +106,26 @@ Uma das maiores lições foi entender e aplicar o paradigma lógico, que é muit
 </p>
 
 #### Jackes Fonseca
-A resolução do Problema de Einstein permitiu explorar diferenças entre os paradigmas declarativo e funcional. No paradigma declarativo, exemplificado por Prolog, o foco está em declarar fatos e regras, com a lógica inferencial automatizada, facilitando a resolução de problemas de satisfação de restrições (CSPs). Já no funcional, representado por Haskell, a solução requer o uso explícito de funções e estruturas como permutações, tornando o código mais detalhado, mas flexível.
 
+<p align="justify">
+A resolução do Problema de Einstein permitiu explorar diferenças entre os paradigmas declarativo e funcional. No paradigma declarativo, exemplificado por Prolog, o foco está em declarar fatos e regras, com a lógica inferencial automatizada, facilitando a resolução de problemas de satisfação de restrições (CSPs). Já no funcional, representado por Haskell, a solução requer o uso explícito de funções e estruturas como permutações, tornando o código mais detalhado, mas flexível.
+</p>
+
+<p align="justify">
 Prolog demonstrou uma grande eficiência nativa em CSPs devido ao backtracking automatizado. Haskell, apesar da clareza e controle nas etapas, teve menor eficiência inicial por usar força bruta. A experiência incluiu o uso de ferramentas como SWI-Prolog e GHC/GHCi, evidenciando diferenças no fluxo de desenvolvimento e depuração. Em síntese, Prolog é ideal para lógica declarativa, enquanto Haskell brilha em problemas que demandam flexibilidade funcional.
+</p>
 
 #### Karla Feliciano
+
+<p align="justify">
 Usar Prolog e o paradigma lógico me ensinou a pensar de forma diferente do raciocínio linear tradicional para abordar problemas de maneira declarativa. Percebi o poder de expressar soluções complexas com poucas palavras, o que torna a importante entender bem a lógica por trás para não se perder. É um paradigma que tem muito poder e com poucas palavras consegue fazer muita coisa, então precisei me adaptar para utilizar as funções, ou implementar novas.
+</p>
 
 #### Lucas Medeiros
+
+<p align="justify">
 Acredito que a maior lição aprendida após essa atividade foi adiquirir um conhecimento mais profundo de como o prolog processas as informações fornecidas para chegar ao resultado final. Durante as aulas, apesar de compreender a teoria da busca em profundidade do Prolog, não estava tão claro para mim como a linguém de fato operava para resolver as questões. Além disso uma aplicação prática me ajudou a sair da teoria e ver as possibilidades do prolog como ferramenta.
+</p>
 
 #### Luís Furtado
 
@@ -168,15 +174,25 @@ Embora minha participação tenha se concentrado na documentação e no apoio ao
 
 
 #### Jackes Fonseca
+
+<p align="justify">
 Minha contribuição se concentrou basicamente em explorar as diferenças entre os paradigmas lógico e funcional e documenta-las. Acredito que tenha tirado um bom aprendizado sobre ambos os paradigmas. Acredito que a maior fragilidade do projeta tenha sido o escopo pequeno onde envolvia pouco código o que fez com que a equipe teve que ser dividida em dois grupos: desenvolvimento e documentação, mas mesmo isso, não foi impeditivo de aprender novos coneitos, ferramentas, etc.
+</p>
 
 #### Karla Feliciano
+
+<p align="justify">
 Fiquei responsável pela parte de permitir que o usuário fizesse perguntas ao programa. Então mesmo que o prolog naturalmente devolva variáveis ao usuário, adaptei para que a interação fosse mais intuitiva ao usuário. Durante a realização do código tive algumas dificuldades com as mensagens de erro que recebia, já que algumas vezes não era informada a linha do erro ou era pouco detalhado o problema ocorrido, porém apesar de haver menos conteúdos da linguagem na internet consegui recorrer a ajuda de outros usuários em fóruns.
+</p>
 
 #### Lucas Medeiros
-Minha primeira contribuição no projeto foi o próprio tema, eu fui o integrante que deu a ideia de criar um programa em Prolog capaz de resolver o famosos Desafio de Lógica de Einstein. Com a contribuição de outros colegas chegamos na objetivo final de mostrar ao usário o caminho de deduções até o resultado. Após essa decição fiquei responsável por gerar o caminho dedutivo do Prolog, tafera que realizei utilizando o `trace`, nativo do Prolog.
 
+<p align="justify">
+Minha primeira contribuição no projeto foi o próprio tema, eu fui o integrante que deu a ideia de criar um programa em Prolog capaz de resolver o famosos Desafio de Lógica de Einstein. Com a contribuição de outros colegas chegamos na objetivo final de mostrar ao usário o caminho de deduções até o resultado. Após essa decição fiquei responsável por gerar o caminho dedutivo do Prolog, tafera que realizei utilizando o `trace`, nativo do Prolog.
+</p>
+<p align="justify">
 Acredito que minha maior fragilidade nesse projeto foi não ter sido capaz de gerar a sequência de deduções de maneira simple para o usuário.
+</p>
 
 #### Luís Furtado
 
