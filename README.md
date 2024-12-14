@@ -166,6 +166,12 @@ Embora minha participação tenha se concentrado na documentação e no apoio ao
 
 #### Jackes Fonseca
 
+A resolução do Problema de Einstein permitiu explorar diferenças entre os paradigmas declarativo e funcional. No paradigma declarativo, exemplificado por Prolog, o foco está em declarar fatos e regras, com a lógica inferencial automatizada, facilitando a resolução de problemas de satisfação de restrições (CSPs). Já no funcional, representado por Haskell, a solução requer o uso explícito de funções e estruturas como permutações, tornando o código mais detalhado, mas flexível.
+
+Prolog demonstrou uma grande eficiência nativa em CSPs devido ao backtracking automatizado. Haskell, apesar da clareza e controle nas etapas, teve menor eficiência inicial por usar força bruta. A experiência incluiu o uso de ferramentas como SWI-Prolog e GHC/GHCi, evidenciando diferenças no fluxo de desenvolvimento e depuração. Em síntese, Prolog é ideal para lógica declarativa, enquanto Haskell brilha em problemas que demandam flexibilidade funcional.
+
+Minha contribuição se concentrou basicamente em explorar essas diferenças e documenta-las. Acredito que tenha tirado um bom aprendizado sobre ambos os paradigmas.
+
 #### Karla Feliciano
 Fiquei responsável pela parte de permitir que o usuário fizesse perguntas ao programa. Então mesmo que o prolog naturalmente devolva variáveis ao usuário, adaptei para que a interação fosse mais intuitiva ao usuário. Durante a realização do código tive algumas dificuldades com as mensagens de erro que recebia, já que algumas vezes não era informada a linha do erro ou era pouco detalhado o problema ocorrido, porém apesar de haver menos conteúdos da linguagem na internet consegui recorrer a ajuda de outros usuários em fóruns.
 
