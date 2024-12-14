@@ -119,6 +119,11 @@ Usar Prolog e o paradigma lógico me ensinou a pensar de forma diferente do raci
 Acredito que a maior lição aprendida após essa atividade foi adiquirir um conhecimento mais profundo de como o prolog processas as informações fornecidas para chegar ao resultado final. Durante as aulas, apesar de compreender a teoria da busca em profundidade do Prolog, não estava tão claro para mim como a linguém de fato operava para resolver as questões. Além disso uma aplicação prática me ajudou a sair da teoria e ver as possibilidades do prolog como ferramenta.
 
 #### Luís Furtado
+
+<p align="justify">
+A maior lição e aprendizado que tive foi entender através do paradigma lógico de pensar em outro fluxo de resolução de problemas, onde caminhamos para definir os predicados, representações de lógicas ou propriedades que dizem serem verdadeiras ou falsas, para assim garantir o fluxo do programa através desses predicados já definidos. Entendi também que para alguns determinados problemas (como o de Einstein), o paradigma lógico pode ser muito interessante em questões de performance, mas também podem gerar diversos problemas de manutenabilidade, evolução e escalabilidade, dependendo do tamanho de dados a serem considerados para o problema.
+</p>
+
 #### Vinícius Roriz
 
 <p align="justify">
