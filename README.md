@@ -94,7 +94,7 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | Jackes Fonseca | Atuei na elaboração do documento sobre um comparativo entre a solução usando paradigma lógico e funcional | Boa | https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/1bb533a1ba029774550e7c78d7ccf711e218e4c2
 | Karla Feliciano   | Codificação da funcionalidade de fazer perguntas ao programa | Boa | [Persistência de informações descorbertas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/738a1e8833776009f9f5bc745f86266e3e1bf5da), [Predicado de perguntas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/ccec32d31f7aaadc1accce15eff7c287c1cec6a4)
 | Lucas Medeiros Rosa | Contribui com a escolha do tema. Gerei e analisei o trace de deduções utilizado pelo prolog para chegar ao resultado final | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/977a0cd0b958c3779609fe5239a07bb5b56edd19)
-| Luís Furtado de Araújo  | - | - | -
+| Luís Furtado de Araújo  | Codificação da funcionalidade de fazer perguntas ao programa, Instalação e execução do programa no ambiente MacOS | Boa | [Predicado de perguntas](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/ccec32d31f7aaadc1accce15eff7c287c1cec6a4), [Instalação e execução ambiente MacOS](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/f46071fb99b09591ff81ce964fc2380e14208d7c)
 | Vinícius Roriz | Resolução do problema | Excelente | [Commit](https://github.com/UnBParadigmas2024-2/2024.2_G5_Logico_Enigma-de-Einstein/commit/8fcd7b71acc8cc2af86a9525f5f91a0f0fe93fe3)
 
 ## Outros 
